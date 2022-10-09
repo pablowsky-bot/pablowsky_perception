@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pablowsky_perception</name>
+  <version>0.0.0</version>
+  <description>The pablowsky_perception package</description>
+
+  <maintainer email="olima_84@yahoo.com">Oscar Lima</maintainer>
+
+  <license>MIT</license>
+
+  <!-- <build_depend>roscpp</build_depend> -->
+  <!-- <exec_depend>todo</exec_depend> -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
