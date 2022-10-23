@@ -11,5 +11,8 @@
   <!-- <build_depend>roscpp</build_depend> -->
   <!-- <exec_depend>todo</exec_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
+  <build_export_depend>dynamic_reconfigure</build_export_depend>
+
+  <exec_depend>dynamic_reconfigure</exec_depend>
 
 </package>
